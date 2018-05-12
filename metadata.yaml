@@ -1,0 +1,45 @@
+_repo: Auguste-Rodin_45605
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Trausil, Hans
+    birthdate: 1890
+    gutenberg_agent_id: '43376'
+    url: http://www.gutenberg.org/2009/agents/43376
+  - agent_name: Lemont, Jessie
+    alias: Lamont, Jessie
+    gutenberg_agent_id: '39560'
+    url: http://www.gutenberg.org/2009/agents/39560
+covers:
+- cover_type: archival
+  image_path: 45605-h/images/en_cover.jpg
+creator:
+  author:
+    agent_name: Rilke, Rainer Maria
+    birthdate: 1875
+    deathdate: 1926
+    gutenberg_agent_id: '846'
+    url: http://www.gutenberg.org/2009/agents/846
+    wikipedia: http://en.wikipedia.org/wiki/Rainer_Maria_Rilke
+description: 'Heredero de los preceptos de la Antigüedad y de Bernini, Auguste Rodin
+  (1840 - 1917) recibió unainnegable influencia de Miguel Ángel, en particular, por
+  su obra Los esclavos. Y como Miguel Ángel, Rodin gozó de fama y fortuna (doctor
+  honoris causa y miembro de la Legión de Honor, entre otras), aunque ciertos escándalos
+  y controversias mancharon su reputación: sus esculturas de Víctor Hugo y de Balzac
+  fueron rechazadas y El beso fue considerada demasiado erótica. Sin embargo, a pesar
+  de tener muchas amantes y de haberse encaprichado con su estudiante Camille Claudel,
+  quien esculpía el cuerpo feme.'
+gutenberg_issued: '2014-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45605'
+  lccn: '19015217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rodin, Auguste, 1840-1917'
+- !lcc 'NB'
+title: Auguste Rodin
+url: http://www.gutenberg.org/ebooks/45605
